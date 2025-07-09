@@ -1,7 +1,7 @@
 # Crash Course in Applied Machine Learning  
 **Işık University**  
 
-![Course Logo](../source/logo.png)
+![Course Logo](source/logo.png)
 
 ### 👤 Instructor: Mehmet Can Yavuz, PhD — [mehmetcanyavuz.com](http://mehmetcanyavuz.com)  
 
